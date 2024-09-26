@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Server\\..\\gestaodelivros.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

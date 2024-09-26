@@ -1,0 +1,1 @@
+C:\Projetos\GestaoDeLivros\gestaodelivros.client\obj\Debug\gestaodelivros.client.esproj.CoreCompileInputs.cache

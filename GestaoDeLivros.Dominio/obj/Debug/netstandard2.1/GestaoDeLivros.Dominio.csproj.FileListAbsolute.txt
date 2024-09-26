@@ -1,0 +1,20 @@
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Dominio\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.deps.json
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Dominio\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.dll
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Dominio\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.pdb
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.csproj.AssemblyReference.cache
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.AssemblyInfoInputs.cache
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.AssemblyInfo.cs
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.dll
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.pdb
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Dominio\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.deps.json
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Dominio\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.dll
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Dominio\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.pdb
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.csproj.AssemblyReference.cache
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.AssemblyInfo.cs
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.dll
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Dominio\obj\Debug\netstandard2.1\GestaoDeLivros.Dominio.pdb

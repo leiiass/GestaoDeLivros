@@ -1,0 +1,26 @@
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\bin\Debug\netstandard2.1\GestaoDeLivros.Servicos.deps.json
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\bin\Debug\netstandard2.1\GestaoDeLivros.Servicos.dll
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\bin\Debug\netstandard2.1\GestaoDeLivros.Servicos.pdb
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.dll
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.pdb
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.csproj.AssemblyReference.cache
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.AssemblyInfoInputs.cache
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.AssemblyInfo.cs
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDe.8DF656A6.Up2Date
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.dll
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.pdb
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\bin\Debug\netstandard2.1\GestaoDeLivros.Servicos.deps.json
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\bin\Debug\netstandard2.1\GestaoDeLivros.Servicos.dll
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\bin\Debug\netstandard2.1\GestaoDeLivros.Servicos.pdb
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.dll
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.pdb
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.csproj.AssemblyReference.cache
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.AssemblyInfoInputs.cache
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.AssemblyInfo.cs
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.csproj.CoreCompileInputs.cache
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDe.8DF656A6.Up2Date
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.dll
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Servicos\obj\Debug\netstandard2.1\GestaoDeLivros.Servicos.pdb

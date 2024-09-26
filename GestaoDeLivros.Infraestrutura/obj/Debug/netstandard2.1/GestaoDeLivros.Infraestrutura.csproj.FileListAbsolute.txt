@@ -1,0 +1,32 @@
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.dll.config
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.deps.json
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.dll
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.pdb
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.dll
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Servicos.dll
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Servicos.pdb
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.pdb
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.AssemblyInfo.cs
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDe.17A0A74F.Up2Date
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.dll
+C:\Users\Léia Mendes\source\repos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.pdb
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.dll.config
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.deps.json
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.dll
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.pdb
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.dll
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Servicos.dll
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Servicos.pdb
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\bin\Debug\netstandard2.1\GestaoDeLivros.Dominio.pdb
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.csproj.AssemblyReference.cache
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.AssemblyInfoInputs.cache
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.AssemblyInfo.cs
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDe.17A0A74F.Up2Date
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.dll
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Infraestrutura\obj\Debug\netstandard2.1\GestaoDeLivros.Infraestrutura.pdb
