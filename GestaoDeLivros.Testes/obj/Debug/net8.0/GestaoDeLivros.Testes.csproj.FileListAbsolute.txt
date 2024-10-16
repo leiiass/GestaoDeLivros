@@ -312,3 +312,4 @@ C:\Projetos\GestaoDeLivros\GestaoDeLivros.Testes\obj\Debug\net8.0\refint\GestaoD
 C:\Projetos\GestaoDeLivros\GestaoDeLivros.Testes\obj\Debug\net8.0\GestaoDeLivros.Testes.pdb
 C:\Projetos\GestaoDeLivros\GestaoDeLivros.Testes\obj\Debug\net8.0\GestaoDeLivros.Testes.genruntimeconfig.cache
 C:\Projetos\GestaoDeLivros\GestaoDeLivros.Testes\obj\Debug\net8.0\ref\GestaoDeLivros.Testes.dll
+C:\Projetos\GestaoDeLivros\GestaoDeLivros.Testes\obj\Debug\net8.0\GestaoDeLivros.Testes.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestaoDeLivros.Servicos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8267d30857e5b7d2c8d74917486efe359c476d19")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestaoDeLivros.Servicos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestaoDeLivros.Servicos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
