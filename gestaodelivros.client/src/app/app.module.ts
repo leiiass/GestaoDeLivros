@@ -4,10 +4,14 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { LeitorComponent } from './components/leitor/leitor.component';
+import { LivroComponent } from './components/livro/livro.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LeitorComponent,
+    LivroComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,

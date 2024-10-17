@@ -1,38 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projetos\\GestaoDeLivros\\",
+  "WorkspaceRootPath": "D:\\PDI\\GestaoDeLivros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{147C55F9-C747-41D1-A850-75F7A621EE29}|GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj|c:\\projetos\\gestaodelivros\\gestaodelivros.infraestrutura\\repositorios\\repositorioleitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{147C55F9-C747-41D1-A850-75F7A621EE29}|GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj|solutionrelative:gestaodelivros.infraestrutura\\repositorios\\repositorioleitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6A055B-59F7-4108-82C1-79B39752B067}|GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj|c:\\projetos\\gestaodelivros\\gestaodelivros.servicos\\servicos\\servicolivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6A055B-59F7-4108-82C1-79B39752B067}|GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj|solutionrelative:gestaodelivros.servicos\\servicos\\servicolivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{417843CA-5BB2-49D5-8848-3AD64A6BEF1C}|GestaoDeLivros.Testes\\GestaoDeLivros.Testes.csproj|c:\\projetos\\gestaodelivros\\gestaodelivros.testes\\teste_servico_livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{417843CA-5BB2-49D5-8848-3AD64A6BEF1C}|GestaoDeLivros.Testes\\GestaoDeLivros.Testes.csproj|solutionrelative:gestaodelivros.testes\\teste_servico_livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F48A4520-6153-41BC-A0C3-4F12D253A39B}|GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj|c:\\projetos\\gestaodelivros\\gestaodelivros.dominio\\modelos\\leitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F48A4520-6153-41BC-A0C3-4F12D253A39B}|GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj|solutionrelative:gestaodelivros.dominio\\modelos\\leitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{147C55F9-C747-41D1-A850-75F7A621EE29}|GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj|c:\\projetos\\gestaodelivros\\gestaodelivros.infraestrutura\\bancodedados\\migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{147C55F9-C747-41D1-A850-75F7A621EE29}|GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj|solutionrelative:gestaodelivros.infraestrutura\\bancodedados\\migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{417843CA-5BB2-49D5-8848-3AD64A6BEF1C}|GestaoDeLivros.Testes\\GestaoDeLivros.Testes.csproj|c:\\projetos\\gestaodelivros\\gestaodelivros.testes\\testebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{417843CA-5BB2-49D5-8848-3AD64A6BEF1C}|GestaoDeLivros.Testes\\GestaoDeLivros.Testes.csproj|solutionrelative:gestaodelivros.testes\\testebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{147C55F9-C747-41D1-A850-75F7A621EE29}|GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj|c:\\projetos\\gestaodelivros\\gestaodelivros.infraestrutura\\repositorios\\repositoriolivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{147C55F9-C747-41D1-A850-75F7A621EE29}|GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj|solutionrelative:gestaodelivros.infraestrutura\\repositorios\\repositoriolivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{147C55F9-C747-41D1-A850-75F7A621EE29}|GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj|c:\\projetos\\gestaodelivros\\gestaodelivros.infraestrutura\\bancodedados\\_20240917111800_addlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{147C55F9-C747-41D1-A850-75F7A621EE29}|GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj|solutionrelative:gestaodelivros.infraestrutura\\bancodedados\\_20240917111800_addlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E27D5C1-F2DD-43D4-B896-32777EA97C0C}|GestaoDeLivros.Server\\GestaoDeLivros.Server.csproj|d:\\pdi\\gestaodelivros\\gestaodelivros.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E27D5C1-F2DD-43D4-B896-32777EA97C0C}|GestaoDeLivros.Server\\GestaoDeLivros.Server.csproj|solutionrelative:gestaodelivros.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,122 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RepositorioLeitor.cs",
-              "DocumentMoniker": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\Repositorios\\RepositorioLeitor.cs",
-              "RelativeDocumentMoniker": "GestaoDeLivros.Infraestrutura\\Repositorios\\RepositorioLeitor.cs",
-              "ToolTip": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\Repositorios\\RepositorioLeitor.cs",
-              "RelativeToolTip": "GestaoDeLivros.Infraestrutura\\Repositorios\\RepositorioLeitor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:38:59.817Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GestaoDeLivros.Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GestaoDeLivros.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T15:48:10.186Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Leitor.cs",
-              "DocumentMoniker": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Dominio\\Modelos\\Leitor.cs",
-              "RelativeDocumentMoniker": "GestaoDeLivros.Dominio\\Modelos\\Leitor.cs",
-              "ToolTip": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Dominio\\Modelos\\Leitor.cs",
-              "RelativeToolTip": "GestaoDeLivros.Dominio\\Modelos\\Leitor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T20:17:34.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TesteBase.cs",
-              "DocumentMoniker": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Testes\\TesteBase.cs",
-              "RelativeDocumentMoniker": "GestaoDeLivros.Testes\\TesteBase.cs",
-              "ToolTip": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Testes\\TesteBase.cs",
-              "RelativeToolTip": "GestaoDeLivros.Testes\\TesteBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:38:17.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServicoLivro.cs",
-              "DocumentMoniker": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Servicos\\Servicos\\ServicoLivro.cs",
-              "RelativeDocumentMoniker": "GestaoDeLivros.Servicos\\Servicos\\ServicoLivro.cs",
-              "ToolTip": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Servicos\\Servicos\\ServicoLivro.cs",
-              "RelativeToolTip": "GestaoDeLivros.Servicos\\Servicos\\ServicoLivro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:09:58.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "teste_servico_livro.cs",
-              "DocumentMoniker": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Testes\\teste_servico_livro.cs",
-              "RelativeDocumentMoniker": "GestaoDeLivros.Testes\\teste_servico_livro.cs",
-              "ToolTip": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Testes\\teste_servico_livro.cs",
-              "RelativeToolTip": "GestaoDeLivros.Testes\\teste_servico_livro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:08:03.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RepositorioLivro.cs",
-              "DocumentMoniker": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\Repositorios\\RepositorioLivro.cs",
-              "RelativeDocumentMoniker": "GestaoDeLivros.Infraestrutura\\Repositorios\\RepositorioLivro.cs",
-              "ToolTip": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\Repositorios\\RepositorioLivro.cs",
-              "RelativeToolTip": "GestaoDeLivros.Infraestrutura\\Repositorios\\RepositorioLivro.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:55:59.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Migrations.cs",
-              "DocumentMoniker": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\BancoDeDados\\Migrations.cs",
-              "RelativeDocumentMoniker": "GestaoDeLivros.Infraestrutura\\BancoDeDados\\Migrations.cs",
-              "ToolTip": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\BancoDeDados\\Migrations.cs",
-              "RelativeToolTip": "GestaoDeLivros.Infraestrutura\\BancoDeDados\\Migrations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:30:04.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_20240917111800_AddLivro.cs",
-              "DocumentMoniker": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\BancoDeDados\\_20240917111800_AddLivro.cs",
-              "RelativeDocumentMoniker": "GestaoDeLivros.Infraestrutura\\BancoDeDados\\_20240917111800_AddLivro.cs",
-              "ToolTip": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\BancoDeDados\\_20240917111800_AddLivro.cs",
-              "RelativeToolTip": "GestaoDeLivros.Infraestrutura\\BancoDeDados\\_20240917111800_AddLivro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:29:03.032Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 93,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 93,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

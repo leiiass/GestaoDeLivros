@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "W72j1N86k+Y=",
+  "dgSpecHash": "6auO6n0AgiY=",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj",
+  "projectFilePath": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Léia Mendes\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
-    "C:\\Users\\Léia Mendes\\.nuget\\packages\\linq2db\\5.4.1\\linq2db.5.4.1.nupkg.sha512",
-    "C:\\Users\\Léia Mendes\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\Léia Mendes\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\linq2db\\5.4.1\\linq2db.5.4.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

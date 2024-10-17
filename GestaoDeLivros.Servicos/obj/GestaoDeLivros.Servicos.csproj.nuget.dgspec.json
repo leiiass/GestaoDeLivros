@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj": {}
+    "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj": {
+    "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj",
+        "projectUniqueName": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj",
         "projectName": "GestaoDeLivros.Dominio",
-        "projectPath": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Léia Mendes\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Dominio\\obj\\",
+        "projectPath": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Léia Mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -75,23 +80,28 @@
         }
       }
     },
-    "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj": {
+    "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj",
+        "projectUniqueName": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj",
         "projectName": "GestaoDeLivros.Servicos",
-        "projectPath": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj",
-        "packagesPath": "C:\\Users\\Léia Mendes\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Servicos\\obj\\",
+        "projectPath": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Servicos\\GestaoDeLivros.Servicos.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Servicos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Léia Mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -100,8 +110,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj": {
-                "projectPath": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj"
+              "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj": {
+                "projectPath": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Dominio\\GestaoDeLivros.Dominio.csproj"
               }
             }
           }

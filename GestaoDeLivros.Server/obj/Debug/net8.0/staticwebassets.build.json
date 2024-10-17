@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "SNPlNJeYTFjnPIoP1WCWDJDKslg+Du0U1y9bNnrkhMI=",
+  "Hash": "3ZTGvAiBSpCgbtz2+DZ8biBwyolnVyV4CialGjT3be8=",
   "Source": "GestaoDeLivros.Server",
   "BasePath": "_content/GestaoDeLivros.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Projetos\\GestaoDeLivros\\gestaodelivros.client\\gestaodelivros.client.esproj",
+      "Identity": "D:\\PDI\\GestaoDeLivros\\gestaodelivros.client\\gestaodelivros.client.esproj",
       "Version": 2,
       "Source": "gestaodelivros.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

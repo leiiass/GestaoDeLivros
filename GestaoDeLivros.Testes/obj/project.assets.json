@@ -8249,25 +8249,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Léia Mendes\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Testes\\GestaoDeLivros.Testes.csproj",
+      "projectUniqueName": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Testes\\GestaoDeLivros.Testes.csproj",
       "projectName": "GestaoDeLivros.Testes",
-      "projectPath": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Testes\\GestaoDeLivros.Testes.csproj",
-      "packagesPath": "C:\\Users\\Léia Mendes\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Testes\\obj\\",
+      "projectPath": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Testes\\GestaoDeLivros.Testes.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Testes\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Léia Mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
@@ -8276,8 +8282,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj": {
-              "projectPath": "C:\\Projetos\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj"
+            "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj": {
+              "projectPath": "D:\\PDI\\GestaoDeLivros\\GestaoDeLivros.Infraestrutura\\GestaoDeLivros.Infraestrutura.csproj"
             }
           }
         }
