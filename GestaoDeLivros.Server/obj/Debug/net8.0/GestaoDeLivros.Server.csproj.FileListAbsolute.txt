@@ -33,9 +33,9 @@ C:\Projetos\GestaoDeLivros\GestaoDeLivros.Server\obj\Debug\net8.0\refint\GestaoD
 C:\Projetos\GestaoDeLivros\GestaoDeLivros.Server\obj\Debug\net8.0\GestaoDeLivros.Server.pdb
 C:\Projetos\GestaoDeLivros\GestaoDeLivros.Server\obj\Debug\net8.0\GestaoDeLivros.Server.genruntimeconfig.cache
 C:\Projetos\GestaoDeLivros\GestaoDeLivros.Server\obj\Debug\net8.0\ref\GestaoDeLivros.Server.dll
+D:\PDI\GestaoDeLivros\GestaoDeLivros.Server\bin\Debug\net8.0\spa.proxy.json
 D:\PDI\GestaoDeLivros\GestaoDeLivros.Server\bin\Debug\net8.0\appsettings.Development.json
 D:\PDI\GestaoDeLivros\GestaoDeLivros.Server\bin\Debug\net8.0\appsettings.json
-D:\PDI\GestaoDeLivros\GestaoDeLivros.Server\bin\Debug\net8.0\spa.proxy.json
 D:\PDI\GestaoDeLivros\GestaoDeLivros.Server\bin\Debug\net8.0\GestaoDeLivros.Server.exe
 D:\PDI\GestaoDeLivros\GestaoDeLivros.Server\bin\Debug\net8.0\GestaoDeLivros.Server.deps.json
 D:\PDI\GestaoDeLivros\GestaoDeLivros.Server\bin\Debug\net8.0\GestaoDeLivros.Server.runtimeconfig.json

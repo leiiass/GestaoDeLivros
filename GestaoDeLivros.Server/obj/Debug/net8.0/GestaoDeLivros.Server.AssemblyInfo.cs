@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestaoDeLivros.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+026d565f98d33576d7563d0aa3b91b24d1df493c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34add7cb130b9b24257f6d8f33eab610b43d9b6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestaoDeLivros.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestaoDeLivros.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
